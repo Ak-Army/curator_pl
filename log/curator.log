@@ -1,0 +1,129 @@
+2014/01/28 17:35:37 [curator] Connect to Elasticsearch - Time:0.490522 
+2014/01/28 17:35:37 [curator] Deleting indices older than 15 days - Time:0.747255 
+2014/01/28 17:35:37 [curator] bolog-2014.01.14 is -23063 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.15 is -109463 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.16 is -195863 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.17 is -282263 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.18 is -368663 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.19 is -455063 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.20 is -541463 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.21 is -627863 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.22 is -714263 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.23 is -800663 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.24 is -887063 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.25 is -973463 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.26 is -1059863 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.27 is -1146263 above the cutoff. 
+2014/01/28 17:35:37 [curator] bolog-2014.01.28 is -1232663 above the cutoff. 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.14 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.15 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.21 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.22 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.23 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.24 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.27 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: botesztlog-2014.01.28 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: kibana-int 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.22 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.23 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.24 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.25 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.26 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.27 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: myadlog-2014.01.28 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.15 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.20 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.24 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.25 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.26 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.27 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: pglog-2014.01.28 
+2014/01/28 17:35:37 [curator] Skipping index due to missing prefix [bolog-]: serverstat-2014.01.28 
+2014/01/28 17:35:37 [curator] DELETE index operations completed. 
+2014/01/28 17:35:37 [curator] All DONE, FINISH... - Time:0.775139 
+2014/01/28 17:49:58 [curator] Connect to Elasticsearch - Time:0.495187 
+2014/01/28 17:49:58 [curator] Deleting indices older than 15 days - Time:0.756142 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.14 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.15 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.16 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.17 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.18 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.19 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.20 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.21 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.22 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.23 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.24 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.25 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.26 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.27 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: bolog-2014.01.28 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.14 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.15 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.21 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.22 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.23 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.24 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.27 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: botesztlog-2014.01.28 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: kibana-int 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.22 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.23 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.24 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.25 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.26 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.27 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: myadlog-2014.01.28 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.15 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.20 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.24 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.25 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.26 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.27 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: pglog-2014.01.28 
+2014/01/28 17:49:58 [curator] Skipping index due to missing prefix [logstash-]: serverstat-2014.01.28 
+2014/01/28 17:49:58 [curator] DELETE index operations completed. 
+2014/01/28 17:49:58 [curator] All DONE, FINISH... - Time:0.782801 
+2014/01/28 17:50:16 [curator] Connect to Elasticsearch - Time:0.495855 
+2014/01/28 17:50:16 [curator] Deleting indices older than 15 days - Time:0.784267 
+2014/01/28 17:50:16 [curator] bolog-2014.01.14 is -22184 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.15 is -108584 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.16 is -194984 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.17 is -281384 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.18 is -367784 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.19 is -454184 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.20 is -540584 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.21 is -626984 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.22 is -713384 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.23 is -799784 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.24 is -886184 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.25 is -972584 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.26 is -1058984 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.27 is -1145384 above the cutoff. 
+2014/01/28 17:50:16 [curator] bolog-2014.01.28 is -1231784 above the cutoff. 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.14 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.15 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.21 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.22 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.23 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.24 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.27 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: botesztlog-2014.01.28 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: kibana-int 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.22 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.23 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.24 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.25 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.26 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.27 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: myadlog-2014.01.28 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.15 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.20 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.24 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.25 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.26 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.27 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: pglog-2014.01.28 
+2014/01/28 17:50:16 [curator] Skipping index due to missing prefix [bolog]: serverstat-2014.01.28 
+2014/01/28 17:50:16 [curator] DELETE index operations completed. 
+2014/01/28 17:50:16 [curator] All DONE, FINISH... - Time:0.812349 
