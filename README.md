@@ -1,6 +1,6 @@
 # Curator pl
 
-Its a perl fork of elasticsearch/curator <https://github.com/elasticsearch/curator>
+Its a perl fork of elasticsearch/curator <https://github.com/elasticsearch/curator> with some fix, and some changes.
 Have time-series indices in Elasticsearch? This is the tool for you!
 
 ## Usage
